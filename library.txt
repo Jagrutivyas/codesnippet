@@ -1,0 +1,10 @@
+1   abc kid,kid3
+2   xyz adult
+3   abc general
+4   abc kid,adult
+5   xyz adult,general
+6   abc kid,kid3
+7   abc adult
+8   xyz general
+9   abc kid,adult
+10  abc adult,general
